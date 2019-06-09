@@ -51,3 +51,13 @@ git status
 //查看工作区和暂存区的区别
 git diff
 ```
+
+```
+//回到上一次操作
+git reset
+```
+
+```
+// 撤销
+git checkout 文件名
+```
