@@ -54,10 +54,15 @@ git diff
 
 ```
 //回到上一次操作
-git reset
+git reset "HEAD^"  有几个^ 就退几层
 ```
 
 ```
 // 撤销
 git checkout 文件名
+```
+
+```
+本地文件跟远程仓库关联
+git remote add origin "仓库地址"
 ```
