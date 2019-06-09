@@ -40,3 +40,14 @@ git config --list
 git config --global user.name "用户名"
 git config --global user.email "邮箱"
 ```
+
+
+```
+//查看工作区状态变化
+git status
+```
+
+```
+//查看工作区和暂存区的区别
+git diff
+```
